@@ -3,7 +3,7 @@
 ## 🎵 Task: Music Player
 
 ### 📌 Description
-- A Python-based ** Music Player**
+- A Python-based **Command Line Music Player**
 - Allows users to:
   - Load music from a folder  
   - Play music  
