@@ -22,3 +22,14 @@ music/
  ├── deep-abstract-ambient_snowcap-401656.mp3
  └── sweet-life-luxury-chill-438146.mp3
 ```
+## ⚙️ Technologies Used
+- Python  
+- Pygame  
+
+## 📦 Required Libraries
+
+Install the required Python library before running the project:
+
+```bash
+pip install pygame
+```
