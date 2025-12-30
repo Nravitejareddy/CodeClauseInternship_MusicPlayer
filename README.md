@@ -33,3 +33,12 @@ Install the required Python library before running the project:
 ```bash
 pip install pygame
 ```
+## ▶️ How to Run
+
+1. Open **Command Prompt** / **Terminal**
+2. Navigate to the project directory
+3. Run the following command:
+
+```bash
+python music_player.py
+```
