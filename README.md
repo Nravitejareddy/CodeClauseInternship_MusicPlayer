@@ -45,15 +45,23 @@ python music_player.py
 ## 📸 Screenshots
 
 ### 🔹 Load Music Folder
-![Load Music Folder](screenshots/2.png)
+<p align="center">
+  <img src="screenshots/2.png" alt="Load Music Folder">
+</p>
 
 ### 🔹 Play Music
-![Play Music](screenshots/3.png)
+<p align="center">
+  <img src="screenshots/3.png" alt="Play Music">
+</p>
 
 ### 🔹 Pause / Resume Music
-![Pause / Resume Music](screenshots/4.png)
+<p align="center">
+  <img src="screenshots/4.png" alt="Pause / Resume Music">
+</p>
 
 ### 🔹 Stop Music
-![Stop Music](screenshots/5.png)
+<p align="center">
+  <img src="screenshots/5.png" alt="Stop Music">
+</p>
 
 
