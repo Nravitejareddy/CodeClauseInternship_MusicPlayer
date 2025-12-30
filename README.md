@@ -42,3 +42,18 @@ pip install pygame
 ```bash
 python music_player.py
 ```
+## 📸 Screenshots
+
+### 🔹 Load Music Folder
+![Load Music Folder](screenshots/2.png)
+
+### 🔹 Play Music
+![Play Music](screenshots/3.png)
+
+### 🔹 Pause / Resume Music
+![Pause / Resume Music](screenshots/4.png)
+
+### 🔹 Stop Music
+![Stop Music](screenshots/5.png)
+
+
